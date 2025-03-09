@@ -37,6 +37,13 @@ Add a Forwarding Rule: <br/>
 <img src="https://i.imgur.com/QAANRCq.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 <br />
 <br />
+Add a Rule to Write to /var/log/syslog: <br/>
+<img src="https://i.imgur.com/9lQoZpe.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Create the Log File, Set Appropriate Permissions, then Restart: <br/>
+<img src="https://i.imgur.com/bsxg8DC.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+
 
 </p>
 
