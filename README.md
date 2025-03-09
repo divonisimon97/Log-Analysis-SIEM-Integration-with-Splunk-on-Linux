@@ -16,13 +16,13 @@ In this project, I set up Splunk on Linux to collect, analyze, and monitor syste
 
 <p align="center">
 Download & Install Splunk: <br/>
-<img src="https://i.imgur.com/0DbvBWI.png" width="80%" alt="Creating a MD5-crypt hash"/>
-<img src="https://i.imgur.com/xyVzLeP.png" width="80%" alt="Creating a MD5-crypt hash"/>
-<img src="https://i.imgur.com/sPWxD6M.png" width="80%" alt="Creating a MD5-crypt hash"/>
+<img src="https://i.imgur.com/wDNI5vG.png" width="80%" alt="Creating a MD5-crypt hash"/>
+<img src="https://i.imgur.com/K3ZtG9X.png" width="80%" alt="Creating a MD5-crypt hash"/>
+<img src="https://i.imgur.com/0m2zA35.png" width="80%" alt="Creating a MD5-crypt hash"/>
 <br />
 <br />
-Configure Linux Logs for Splunk: <br/>
-<img src="https://i.imgur.com/9ZOZ5xP.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+Receive Web Interface: <br/>
+<img src="https://i.imgur.com/NC2veVq.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 <br />
 <br />
 
