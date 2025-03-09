@@ -25,7 +25,18 @@ Receive Web Interface: <br/>
 <img src="https://i.imgur.com/NC2veVq.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 <br />
 <br />
-
+Log-In Web Interface: <br/>
+<img src="https://i.imgur.com/OkGUD9O.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Open the rsyslog configuration file: <br/>
+<img src="https://i.imgur.com/eT2RvUu.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Add a Forwarding Rule: <br/>
+<img src="https://i.imgur.com/QAANRCq.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
 
 </p>
 
