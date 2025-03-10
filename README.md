@@ -56,14 +56,16 @@ Check for Logs in the System Journal: <br/>
 Test the Configuration: <br/>
 <img src="https://i.imgur.com/v3h7pBe.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 <img src="https://i.imgur.com/54LjIvn.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
-
- 
 <br />
 <br />
 Configure Splunk to Monitor /var/log/journal_export.log: <br/>
 <img src="https://i.imgur.com/vFh5iHe.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
-
-
+<br />
+<br />
+Select Source, Input Settings & Review: <br/>
+<img src="https://i.imgur.com/lda1drn.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<img src="https://i.imgur.com/vFh5iHe.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<img src="https://i.imgur.com/iOv0qIs.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 
 </p>
 
