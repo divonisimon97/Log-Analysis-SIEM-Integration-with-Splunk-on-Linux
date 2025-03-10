@@ -43,6 +43,26 @@ Add a Rule to Write to /var/log/syslog: <br/>
 <br />
 Create the Log File, Set Appropriate Permissions, then Restart: <br/>
 <img src="https://i.imgur.com/bsxg8DC.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Export Journal Logs to a File: <br/>
+<img src="https://i.imgur.com/MII8YxP.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Check for Logs in the System Journal: <br/>
+<img src="https://i.imgur.com/KPlkrB4.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Test the Configuration: <br/>
+<img src="https://i.imgur.com/v3h7pBe.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<img src="https://i.imgur.com/54LjIvn.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+
+ 
+<br />
+<br />
+Configure Splunk to Monitor /var/log/journal_export.log: <br/>
+<img src="https://i.imgur.com/vFh5iHe.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+
 
 
 </p>
