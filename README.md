@@ -73,8 +73,9 @@ Search & Analyze Logs in Splunk: <br/>
 <img src="https://i.imgur.com/sF5aDlL.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 <br />
 <br />
-: <br/>
-<img src="https://i.imgur.com/JbEMHcY.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+Filter Specific Events: <br/>
+<img src="https://i.imgur.com/62TR76A.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<img src="https://i.imgur.com/dPxjkJO.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 
 
 </p>
